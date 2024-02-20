@@ -1,0 +1,7 @@
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.exe
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.dll
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.deps.json
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.runtimeconfig.json
+C:\tmp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.pdb
