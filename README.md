@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/yenneprem0876DGV/eShopOnWeb/_apis/build/status%2Fpyenne.gitapp?branchName=main)](https://dev.azure.com/yenneprem0876DGV/eShopOnWeb/_build/latest?definitionId=15&branchName=main)
